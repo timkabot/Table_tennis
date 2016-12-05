@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="dias:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/dias_jar</output-path>
+    <root id="archive" name="dias.jar">
+      <element id="module-output" name="dias" />
+    </root>
+  </artifact>
+</component>
